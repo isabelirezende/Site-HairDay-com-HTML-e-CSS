@@ -20,6 +20,10 @@ body {
   border-bottom: 1px solid #e0e0e0;
 }
 
+.logo {
+  height: 50px;
+}
+
 .nav-links {
   list-style: none;
   display: flex;
