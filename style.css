@@ -21,7 +21,14 @@ body {
 }
 
 .logo {
-  height: 20px;
+  height: 60px;
+  object-fit: contain;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    height: 45px;
+  }
 }
 
 .nav-links {
