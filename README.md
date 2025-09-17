@@ -1,2 +1,25 @@
-# Site-HairDay-com-HTML-e-CSS
-Site para o salão de beleza HairDay, utilizando HTMLl e CSS para o curso do Coursera.
+# Hair Day - Landing Page 💅
+
+A responsive and professional landing page developed for a fictional beauty salon called **Hair Day**. This project was created as part of a portfolio assignment, showcasing skills in HTML5 and CSS3.
+
+## Features
+
+- Responsive layout using Flexbox
+- Clean and professional visual style
+- Header with logo and navigation
+- Promotional banner section
+- Main content with three service columns (Hair Coloring, Makeup, Nails)
+- Footer with brand and contact info
+
+
+## Live Demo
+
+👉 [Click here to view the live site](https://isabelirezende.github.io/Site-HairDay-com-HTML-e-CSS/)
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- Google Fonts (Poppins)
+
+### Created by Isabeli Rezende for educational and portfolio purposes.
