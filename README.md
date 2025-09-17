@@ -25,4 +25,4 @@ A responsive and professional landing page developed for a fictional beauty salo
 <img width="1901" height="861" alt="image" src="https://github.com/user-attachments/assets/f314f3ef-c5cc-4ae3-b08f-ce2120c786e5" />
 
 
-### Created by Isabeli Rezende for educational and portfolio purposes.
+#### Created by Isabeli Rezende for educational and portfolio purposes.
